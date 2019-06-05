@@ -18,3 +18,4 @@ Includes my exercise solutions and projects from udacity java programming course
      * If they are not the same, returns the sum of all numbers rolled so far.    
      * If they are the same, keeps track of the total rolled so far and return to step 1.
      * If the three consecutive rolls are doubles, returns -1 instead of continuing to roll.
+9. **["mk009-GuessNumber"](https://github.com/karakose77/udacity-java-programming-exercises-and-projects/blob/master/mk009-GuessNumber/GuessNumber.java)**: The computer picks a random number between 1 and the given number by the user. Then the user tries to guess that number.
