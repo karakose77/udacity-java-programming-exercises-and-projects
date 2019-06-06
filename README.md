@@ -19,3 +19,4 @@ Includes my exercise solutions and projects from udacity java programming course
      * If they are the same, keeps track of the total rolled so far and return to step 1.
      * If the three consecutive rolls are doubles, returns -1 instead of continuing to roll.
 9. **["mk009-GuessNumber"](https://github.com/karakose77/udacity-java-programming-exercises-and-projects/blob/master/mk009-GuessNumber/GuessNumber.java)**: The computer picks a random number between 1 and the given number by the user. Then the user tries to guess that number.
+10. **["mk010-WordCount"](https://github.com/karakose77/udacity-java-programming-exercises-and-projects/blob/master/mk010-WordCount/WordCount.java)**: This method count & prints number of lines & words in a text file.
